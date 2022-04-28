@@ -1,4 +1,4 @@
-# An effective method for learning Ukrainian vectors on small datasets
+# An effective method for learning Ukrainian vectors 
 Artificial Intelligence course project
 
 ### Task description
